@@ -1,0 +1,37 @@
+
+.card-img{
+    width: 100%;
+    object-fit:contain;
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+}
+
+.card-header{
+    display: flex;
+    align-items: center; 
+    gap: 10px;
+    margin:10px;
+}
+.card{
+    max-width: 450px;
+    margin-top:5px;
+    border-radius:5px;
+    margin-bottom: 20px;
+    font-weight:lighter;
+    background-color: white;
+    border:1px solid lightgray;
+}
+
+.card-footer{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+
+}
+.h5
+{
+     font-size: 15px;
+     font-family: sans-serif;
+     
+
+}
